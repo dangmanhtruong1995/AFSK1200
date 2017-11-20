@@ -1,6 +1,11 @@
 # AFSK1200
 Transmit data through sound using AFSK1200 (continuous Audio Frequency Shift Keying)
 
+References:
+
+[1] - https://inst.eecs.berkeley.edu/~ee123/sp17/lab/lab5/Lab5_Part_2-Audio_Frequency_Shift_Keying(AFSK).html
+
+[2] - A high-performance sound-card AX.25 Modem - Sivan Toledo
 Some screenshots:
 
 ![](https://user-images.githubusercontent.com/20016033/33012851-b64c7c1e-ce14-11e7-9629-328f1f67683a.PNG?raw=true "")
